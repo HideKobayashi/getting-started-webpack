@@ -8,3 +8,6 @@ install-dev-webpack: package-lock.json
 
 install-jquery:
 	npm install --save jquery@3.6.0
+
+build:
+	npm run build
