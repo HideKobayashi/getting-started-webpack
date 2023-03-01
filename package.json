@@ -1,6 +1,7 @@
 {
   "name": "getting-started-webpack",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
